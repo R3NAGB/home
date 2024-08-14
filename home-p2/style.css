@@ -11,6 +11,7 @@
 }
 .logo:hover{
     color: rgb(4, 200, 47);
+  
    
 }
 
@@ -37,4 +38,9 @@
     background-image:radial-gradient(circle, rgba(29, 29, 29, 0.6) 10%, rgba(6, 6, 6, 0.66) 100%), url('project-1-img/home-3.jpg');
     background-size: cover;
     background-position: center;
+}
+.header-about{
+    font-size: 40px;
+    font-weight: 500;
+    
 }
